@@ -1,0 +1,6 @@
+HTTP-RAW.js 510k+ r/s
+httpsbypassv2 90k+ r/s
+HTTP-SOCKETS.js 70k+ r/s
+HTTP-RAND.js 150k+ r/s
+HTTP-BYPASS.js 30k+ r/s
+HTTP-REQ.js 400k+ r/s
