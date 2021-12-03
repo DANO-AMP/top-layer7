@@ -1,6 +1,6 @@
 # top-layer7
 
-Ubuntu - Debina
+Install Ubuntu - Debian
 
 ```sh
 danonino@shit:~# apt install nodejs 
@@ -12,7 +12,7 @@ danonino@shit:~# npm install cloudscraper; npm install cloudscraper; npm install
 danonino@shit:~# node method.js (HTTP-RAW) url time
 ```
 
-Centos 
+Install Centos
 
 ```sh
 danonino@shit:~# yum install nodejs 
